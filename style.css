@@ -3,7 +3,7 @@
     /*Global Styles*/
     *{
       box-sizing: border-box;
-      font-size: 14px;
+       
       margin: 0;
       padding: 0;
       background-color: #132125;
@@ -75,6 +75,7 @@
   text-decoration: none;
   transition: color 0.2s ease;
   padding: 15px;
+    font-size: 20px;
   margin-top: 1%;
   margin-bottom: 0.5%;
   width: fit-content;
