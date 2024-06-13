@@ -3,6 +3,7 @@
     /*Global Styles*/
     *{
       box-sizing: border-box;
+      font-size: 14px;
       margin: 0;
       padding: 0;
       background-color: #132125;
